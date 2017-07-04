@@ -818,7 +818,7 @@
     invoke-virtual {p0, v1}, Lcom/google/android/finsky/layout/SongSnippet;->setBackgroundResource(I)V
 
     .line 169
-    const v1, 0x7f0d0128
+    const v1, 0x7f0d0130
 
     invoke-virtual {v0, v1}, Landroid/content/res/Resources;->getColor(I)I
 

@@ -38,7 +38,7 @@
 
     .prologue
     .line 108
-    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_IN:Landroid/graphics/PorterDuff$Mode;
+    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_ATOP:Landroid/graphics/PorterDuff$Mode;
 
     sput-object v0, Landroid/support/v4/c/a/k;->a:Landroid/graphics/PorterDuff$Mode;
 

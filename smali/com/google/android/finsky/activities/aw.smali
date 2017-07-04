@@ -268,7 +268,7 @@
 
     iget-object v2, p0, Lcom/google/android/finsky/activities/aw;->b:Landroid/content/Context;
 
-    const v3, 0x7f0d0128
+    const v3, 0x7f0d00ea
 
     invoke-direct {v1, v2, v3}, Lcom/google/android/finsky/playcard/a;-><init>(Landroid/content/Context;I)V
 

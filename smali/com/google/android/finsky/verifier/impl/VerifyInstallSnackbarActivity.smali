@@ -230,7 +230,7 @@
 
     move-result-object v1
 
-    const v4, 0x7f0d0199
+    const v4, 0x7f0d00ea
 
     invoke-static {p0, v4}, Landroid/support/v4/b/g;->c(Landroid/content/Context;I)I
 

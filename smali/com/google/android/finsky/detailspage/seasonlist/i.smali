@@ -131,7 +131,7 @@
     invoke-virtual {p2, v0}, Landroid/view/View;->setBackgroundColor(I)V
 
     .line 34
-    const v0, 0x7f0d0199
+    const v0, 0x7f0d0130
 
     invoke-virtual {v2, v0}, Landroid/content/res/Resources;->getColor(I)I
 

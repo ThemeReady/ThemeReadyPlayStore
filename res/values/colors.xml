@@ -411,4 +411,11 @@
     <color name="whatsnew_newsstand">#ffe3e7fe</color>
     <color name="white">#ffffffff</color>
     <color name="your_review_label_bg_color">#80707070</color>
+    <color name="play_apps_ent_primary_tint">@color/play_apps_ent_primary</color>
+    <color name="play_apps_primary_tint">@color/play_apps_primary</color>
+    <color name="play_books_primary_tint">@color/play_books_primary</color>
+    <color name="play_newsstand_primary_tint">@color/play_newsstand_primary</color>
+    <color name="play_movies_primary_tint">@color/play_movies_primary</color>
+    <color name="play_music_primary_tint">@color/play_music_primary</color>
+    <color name="play_multi_primary_tint">@color/play_multi_primary</color>
 </resources>

@@ -25,7 +25,7 @@
                 <com.google.android.play.image.FifeImageView android:id="@id/consumption_app_icon" android:visibility="gone" android:layout_width="@dimen/light_purchase_thumbnail_size" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginRight="16.0dip" />
                 <TextView android:id="@id/consumption_app_disclaimer" android:layout_width="wrap_content" android:layout_height="wrap_content" />
             </LinearLayout>
-            <TextView android:textSize="@dimen/play_medium_size" android:id="@id/requester_info" android:background="#ffefefef" android:padding="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
+            <TextView android:textSize="@dimen/play_medium_size" android:id="@id/requester_info" android:background="@color/play_main_background" android:padding="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
             <TextView android:id="@id/approver_email" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" style="@style/LightPurchase_SubtitleText" />
             <Spinner android:id="@id/approver_email_list" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
             <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" layout="@layout/light_purchase_password_pin" />

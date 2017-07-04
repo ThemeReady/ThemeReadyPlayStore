@@ -17,7 +17,7 @@
                     <TextView android:id="@id/entertainment_tab" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5" style="@style/OnboardTab" />
                 </LinearLayout>
                 <LinearLayout android:layout_gravity="top" android:orientation="horizontal" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@dimen/onboard_tab_height" android:weightSum="1.0">
-                    <View android:layout_gravity="bottom" android:id="@id/tab_strip" android:background="@color/play_white" android:clipChildren="false" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="@dimen/finsky_fixed_tab_underline_thickness" android:layout_weight="0.5" />
+                    <View android:layout_gravity="bottom" android:id="@id/tab_strip" android:background="@color/play_main_background" android:clipChildren="false" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="@dimen/finsky_fixed_tab_underline_thickness" android:layout_weight="0.5" />
                 </LinearLayout>
             </com.google.android.finsky.layout.SizingLayout>
         </com.google.android.finsky.layout.SizingLayout>

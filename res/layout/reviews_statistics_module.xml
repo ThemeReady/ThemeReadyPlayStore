@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.google.android.finsky.detailspage.ReviewsStatisticsModuleLayout android:orientation="vertical" android:background="@color/play_white" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/play_highlight_overlay_light"
+<com.google.android.finsky.detailspage.ReviewsStatisticsModuleLayout android:orientation="vertical" android:background="@color/play_main_background" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@drawable/play_highlight_overlay_light"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <TextView android:textSize="@dimen/content_generic_small_size" android:gravity="center" android:id="@id/ratings_section_title" android:paddingTop="@dimen/details_review_module_title_padding_top" android:paddingBottom="@dimen/details_review_module_title_padding_bottom" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/PlayMediumPlainText" />
     <include layout="@layout/reviews_statistics" />

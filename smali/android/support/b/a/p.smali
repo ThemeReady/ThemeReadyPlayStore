@@ -31,7 +31,7 @@
 
     .prologue
     .line 449
-    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_IN:Landroid/graphics/PorterDuff$Mode;
+    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_ATOP:Landroid/graphics/PorterDuff$Mode;
 
     sput-object v0, Landroid/support/b/a/p;->a:Landroid/graphics/PorterDuff$Mode;
 
@@ -2140,7 +2140,7 @@
     move-result v5
 
     .line 226
-    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_IN:Landroid/graphics/PorterDuff$Mode;
+    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_ATOP:Landroid/graphics/PorterDuff$Mode;
 
     .line 227
     packed-switch v5, :pswitch_data_0

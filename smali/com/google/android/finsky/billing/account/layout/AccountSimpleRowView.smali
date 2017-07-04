@@ -308,7 +308,7 @@
 
     invoke-direct {v3}, Lcom/caverock/androidsvg/as;-><init>()V
 
-    const v4, 0x7f0d0199
+    const v4, 0x7f0d0130
 
     .line 63
     invoke-virtual {v0, v4}, Landroid/content/res/Resources;->getColor(I)I

@@ -87,7 +87,7 @@
     move-result v0
 
     .line 13
-    sget-object v1, Landroid/graphics/PorterDuff$Mode;->SRC_IN:Landroid/graphics/PorterDuff$Mode;
+    sget-object v1, Landroid/graphics/PorterDuff$Mode;->SRC_ATOP:Landroid/graphics/PorterDuff$Mode;
 
     invoke-virtual {p0, v0, v1}, Lcom/android/setupwizardlib/view/g;->setColorFilter(ILandroid/graphics/PorterDuff$Mode;)V
 

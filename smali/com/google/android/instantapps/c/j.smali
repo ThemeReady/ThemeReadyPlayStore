@@ -466,7 +466,7 @@
 
 .field public static final play_transparent:I = 0x7f0d011e
 
-.field public static final play_white:I = 0x7f0d0128
+.field public static final play_white:I = 0x7f0d0130
 
 .field public static final play_white_disabled:I = 0x7f0d0129
 

@@ -3159,6 +3159,13 @@
     <public type="color" name="structured_review_option_tint" id="0x7f0d01ec" />
     <public type="color" name="switch_thumb_material_dark" id="0x7f0d01ed" />
     <public type="color" name="switch_thumb_material_light" id="0x7f0d01ee" />
+    <public type="color" name="play_apps_ent_primary_tint" id="0x7f0d01ef" />
+    <public type="color" name="play_apps_primary_tint" id="0x7f0d01f0" />
+    <public type="color" name="play_books_primary_tint" id="0x7f0d01f1" />
+    <public type="color" name="play_newsstand_primary_tint" id="0x7f0d01f2" />
+    <public type="color" name="play_movies_primary_tint" id="0x7f0d01f3" />
+    <public type="color" name="play_music_primary_tint" id="0x7f0d01f4" />
+    <public type="color" name="play_multi_primary_tint" id="0x7f0d01f5" />
     <public type="color" name="overlay_background_dim" id="0x7f0d019b" />
     <public type="color" name="setup_wizard_app_details_byline" id="0x7f0d019c" />
     <public type="color" name="setup_wizard_app_details_description" id="0x7f0d019d" />

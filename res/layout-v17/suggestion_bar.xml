@@ -7,5 +7,5 @@
     </LinearLayout>
     <TextView android:textSize="@dimen/content_generic_medium_size" android:textColor="@color/play_primary_text" android:id="@id/suggestion_line1" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:paddingStart="20.0dip" android:paddingEnd="20.0dip" style="@style/PlayLightText" />
     <TextView android:textSize="@dimen/content_generic_medium_size" android:textStyle="bold|italic" android:textColor="@color/play_primary_text" android:ellipsize="marquee" android:id="@id/suggestion_line2" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-4.0dip" android:singleLine="true" android:paddingStart="20.0dip" android:paddingEnd="20.0dip" />
-    <View android:id="@id/suggestion_underline" android:background="#1a000000" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <View android:id="@id/suggestion_underline" android:background="@color/play_outline_button_secondary" android:layout_width="fill_parent" android:layout_height="1.0dip" />
 </com.google.android.finsky.layout.SuggestionBarLayout>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.google.android.finsky.detailspage.FamilyShareLayout android:orientation="vertical" android:background="@color/play_white" android:padding="@dimen/details_new_content_margin" android:layout_width="fill_parent" android:layout_height="wrap_content"
+<com.google.android.finsky.detailspage.FamilyShareLayout android:orientation="vertical" android:background="@color/play_main_background" android:padding="@dimen/details_new_content_margin" android:layout_width="fill_parent" android:layout_height="wrap_content"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/share_controls" android:layout_width="fill_parent" android:layout_height="wrap_content">
         <ImageView android:id="@id/family_icon" android:layout_width="@dimen/details_text_section_icon_size" android:layout_height="@dimen/details_text_section_icon_size" android:scaleType="fitStart" android:alpha="0.54" />

@@ -55,7 +55,7 @@
     const/4 v3, 0x0
 
     .line 287
-    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_IN:Landroid/graphics/PorterDuff$Mode;
+    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_ATOP:Landroid/graphics/PorterDuff$Mode;
 
     sput-object v0, Landroid/support/v7/widget/an;->a:Landroid/graphics/PorterDuff$Mode;
 
@@ -757,7 +757,7 @@
     if-eqz v4, :cond_4
 
     .line 172
-    sget-object v4, Landroid/graphics/PorterDuff$Mode;->MULTIPLY:Landroid/graphics/PorterDuff$Mode;
+    sget-object v4, Landroid/graphics/PorterDuff$Mode;->SRC_ATOP:Landroid/graphics/PorterDuff$Mode;
 
     move v5, v0
 
@@ -1522,7 +1522,7 @@
     if-ne p2, v1, :cond_1
 
     .line 63
-    sget-object v0, Landroid/graphics/PorterDuff$Mode;->MULTIPLY:Landroid/graphics/PorterDuff$Mode;
+    sget-object v0, Landroid/graphics/PorterDuff$Mode;->SRC_ATOP:Landroid/graphics/PorterDuff$Mode;
 
     .line 66
     :cond_1

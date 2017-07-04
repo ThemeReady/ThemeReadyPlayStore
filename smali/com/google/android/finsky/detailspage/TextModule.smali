@@ -1440,7 +1440,7 @@
 
     move-result v3
 
-    const v4, 0x7f0d0128
+    const v4, 0x7f0d0130
 
     move-object/from16 v0, v18
 
@@ -1496,7 +1496,7 @@
 
     .line 129
     :cond_15
-    const v2, 0x7f0d0128
+    const v2, 0x7f0d0130
 
     goto :goto_d
 

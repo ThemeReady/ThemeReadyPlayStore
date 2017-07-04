@@ -1089,7 +1089,7 @@
 
     invoke-direct {v4, p0}, Lcom/google/android/finsky/activities/myapps/p;-><init>(Lcom/google/android/finsky/activities/myapps/m;)V
 
-    const v5, 0x7f0d0128
+    const v5, 0x7f0d0130
 
     move-object v1, v0
 

@@ -284,7 +284,7 @@
 
     move-result-object v3
 
-    const v4, 0x7f0d0128
+    const v4, 0x7f0d0130
 
     .line 36
     invoke-virtual {v1, v3, v10, v4, v9}, Lcom/google/android/finsky/layout/play/WarmWelcomeCardButton;->a(Ljava/lang/String;Lcom/google/android/finsky/bf/a/an;II)V
