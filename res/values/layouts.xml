@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="card_story_single">@layout/card_story</item>
+    <item type="layout" name="install_approval_layout">@layout/main_install_approval_layout</item>
+    <item type="layout" name="light_purchase_app_permissions">@layout/main_light_purchase_app_permissions</item>
+    <item type="layout" name="permission_row">@layout/main_permission_row</item>
+    <item type="layout" name="play_card_listing">@layout/play_card_wide</item>
+    <item type="layout" name="suw_glif_blank_template">@layout/suw_glif_blank_template_compact</item>
+    <item type="layout" name="suw_glif_list_template">@layout/suw_glif_list_template_compact</item>
+    <item type="layout" name="suw_glif_preference_template">@layout/suw_glif_blank_template_compact</item>
+    <item type="layout" name="suw_glif_recycler_template">@layout/suw_glif_recycler_template_compact</item>
+    <item type="layout" name="suw_glif_template">@layout/suw_glif_template_compact</item>
+    <item type="layout" name="suw_list_template">@layout/suw_list_template_header</item>
+    <item type="layout" name="suw_list_template_short">@layout/suw_list_template_header_collapsed</item>
+    <item type="layout" name="suw_no_scroll_template">@layout/suw_no_scroll_template_header</item>
+    <item type="layout" name="suw_no_scroll_template_short">@layout/suw_no_scroll_template_header_collapsed</item>
+    <item type="layout" name="suw_preference_recycler_view">@layout/suw_preference_recycler_view_header</item>
+    <item type="layout" name="suw_preference_template">@layout/suw_preference_template_header</item>
+    <item type="layout" name="suw_recycler_template">@layout/suw_recycler_template_header</item>
+    <item type="layout" name="suw_recycler_template_short">@layout/suw_recycler_template_header_collapsed</item>
+    <item type="layout" name="suw_template">@layout/suw_template_header</item>
+    <item type="layout" name="suw_template_short">@layout/suw_template_header_collapsed</item>
+    <item type="layout" name="update_all_activity">@layout/main_update_all_activity</item>
+</resources>

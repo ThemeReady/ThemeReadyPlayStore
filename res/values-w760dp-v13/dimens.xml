@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="jpkr_editorial_details_screenshot_max_height">280.0dip</dimen>
+    <dimen name="jpkr_editorial_details_thumbnail_right_margin">24.0dip</dimen>
+    <dimen name="jpkr_editorial_page_header_title">22.0sp</dimen>
+</resources>

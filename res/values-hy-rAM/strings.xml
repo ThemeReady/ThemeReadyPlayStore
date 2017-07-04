@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ուղղվել տուն</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Ուղղվել վերև</string>
+    <string name="abc_action_menu_overflow_description">Այլ ընտրանքներ</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_activity_chooser_view_see_all">Տեսնել բոլորը</string>
+    <string name="abc_activitychooserview_choose_application">Ընտրել ծրագիր</string>
+    <string name="abc_capital_off">ԱՆՋԱՏՎԱԾ</string>
+    <string name="abc_capital_on">ՄԻԱՑՎԱԾ</string>
+    <string name="abc_search_hint">Որոնում...</string>
+    <string name="abc_searchview_description_clear">Մաքրել հարցումը</string>
+    <string name="abc_searchview_description_query">Որոնման հարցում</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_shareactionprovider_share_with">Կիսվել</string>
+    <string name="abc_shareactionprovider_share_with_application">Կիսվել %s-ի միջոցով</string>
+    <string name="abc_toolbar_collapse_description">Թաքցնել</string>
+    <string name="failed">Չհաջողվեց բեռնել պատկերը</string>
+    <string name="photo_view_count" formatted="false">%d-ից %d-ը</string>
+    <string name="play_accessibility_search_plate_back_button">Հետ</string>
+    <string name="play_accessibility_search_plate_clear">Մաքրել</string>
+    <string name="play_accessibility_search_plate_navigate_up_button">Նավարկել վերև</string>
+    <string name="play_accessibility_search_plate_search_button">Որոնել</string>
+    <string name="play_accessibility_search_plate_voice_search_button">Ձայնային որոնում</string>
+    <string name="play_article_view_error_message">Սխալ առաջացավ:</string>
+    <string name="play_content_description_page_indicator">Էջ %1$s՝ %2$s-ից</string>
+    <string name="play_dot_account_notification_content_description">Նոր ծանուցում ձեր հաշվում</string>
+    <string name="play_dot_notification_content_description">Նոր ծանուցում</string>
+    <string name="play_download_is_requested">ներբեռնումը միացված է</string>
+    <string name="play_download_not_requested">ներբեռնումն անջատված է</string>
+    <string name="play_drawer_close">Թաքցնել նավարկման դարակը</string>
+    <string name="play_drawer_content_description_hide_account_list_button">Թաքցնել հաշիվների ցուցակը</string>
+    <string name="play_drawer_content_description_show_account_list_button">Ցույց տալ հաշիվների ցուցակը</string>
+    <string name="play_drawer_content_description_switch_account">Անցնել %s հաշիվ</string>
+    <string name="play_drawer_open">Ցույց տալ նավարկման դարակը</string>
+    <string name="play_drawer_title">Նավարկում</string>
+    <string name="play_onboard_button_next">Հաջորդը</string>
+    <string name="play_percent_downloaded">Ներբեռնվել է %1$d %%</string>
+    <string name="play_search_box_hint">Որոնում Google Play-ում</string>
+    <string name="play_star_rating_content_description">Գնահատականը՝ %1$s</string>
+    <string name="retry">Կրկին փորձել</string>
+    <string name="search_menu_title">Որոնել</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="titles" formatted="false">%s, %s</string>
+</resources>

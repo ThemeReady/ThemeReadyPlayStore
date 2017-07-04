@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.play.layout.PlayTextView android:id="@id/app_update_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/play_card_content_horizontal_inset" android:layout_marginTop="@dimen/play_card_content_vertical_inset" android:layout_marginRight="@dimen/play_card_overflow_safe" android:maxLines="5" android:layout_alignParentTop="true" style="@style/PlayCardTitle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

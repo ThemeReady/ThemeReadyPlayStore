@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Движи се кон дома</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Движи се нагоре</string>
+    <string name="abc_action_menu_overflow_description">Повеќе опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Види ги сите</string>
+    <string name="abc_activitychooserview_choose_application">Избери апликација</string>
+    <string name="abc_capital_off">ИСКЛУЧЕНО</string>
+    <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_search_hint">Пребарување…</string>
+    <string name="abc_searchview_description_clear">Исчисти барање</string>
+    <string name="abc_searchview_description_query">Пребарај барање</string>
+    <string name="abc_searchview_description_search">Пребарај</string>
+    <string name="abc_searchview_description_submit">Поднеси барање</string>
+    <string name="abc_searchview_description_voice">Гласовно пребарување</string>
+    <string name="abc_shareactionprovider_share_with">Сподели со</string>
+    <string name="abc_toolbar_collapse_description">Собери</string>
+    <string name="failed">Сликата не можеше да се вчита</string>
+    <string name="photo_view_count" formatted="false">%d од %d</string>
+    <string name="play_accessibility_search_plate_back_button">Назад</string>
+    <string name="play_accessibility_search_plate_clear">Исчисти</string>
+    <string name="play_accessibility_search_plate_navigate_up_button">Оди нагоре</string>
+    <string name="play_accessibility_search_plate_search_button">Барај</string>
+    <string name="play_accessibility_search_plate_voice_search_button">Гласовно пребарување</string>
+    <string name="play_article_view_error_message">Се појави грешка.</string>
+    <string name="play_content_description_page_indicator">Страница %1$s од %2$s</string>
+    <string name="play_dot_account_notification_content_description">Ново известување на сметката</string>
+    <string name="play_dot_notification_content_description">Ново известување</string>
+    <string name="play_download_is_requested">преземањето е вклучено</string>
+    <string name="play_download_not_requested">преземањето е исклучено</string>
+    <string name="play_drawer_close">Сокриј фиока за навигација</string>
+    <string name="play_drawer_content_description_hide_account_list_button">Сокриј список со сметки</string>
+    <string name="play_drawer_content_description_show_account_list_button">Прикажи список со сметки</string>
+    <string name="play_drawer_content_description_switch_account">Префрли сметка на %s</string>
+    <string name="play_drawer_open">Прикажи фиока за навигација</string>
+    <string name="play_drawer_title">Навигација</string>
+    <string name="play_onboard_button_next">Следно</string>
+    <string name="play_percent_downloaded">%1$d%% преземено</string>
+    <string name="play_search_box_hint">Пребарувај го Google Play</string>
+    <string name="play_star_rating_content_description">Оценување со ѕвезди: %1$s</string>
+    <string name="retry">Обиди се повторно</string>
+    <string name="search_menu_title">Пребарај</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="titles" formatted="false">%s, %s</string>
+</resources>

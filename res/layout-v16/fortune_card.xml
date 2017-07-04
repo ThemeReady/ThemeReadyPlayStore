@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.play.FortuneCard android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/PlayCardViewGroup"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="@dimen/fortune_icon_size" android:layout_height="@dimen/fortune_icon_size">
+        <com.caverock.androidsvg.SVGImageView android:id="@id/background" android:layout_width="fill_parent" android:layout_height="fill_parent" app:svg="@raw/right_triangle" />
+        <View android:id="@id/icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/fortune_icon_margin" />
+        <com.google.android.play.image.FifeImageView android:id="@id/image" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/text_container" android:paddingLeft="@dimen/fortune_text_side_margin" android:paddingRight="@dimen/fortune_text_side_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/fortune_icon_size">
+        <TextView android:textSize="14.0sp" android:textStyle="bold" android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" android:fontFamily="sans-serif" />
+        <TextView android:textSize="14.0sp" android:gravity="top" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="2.0" android:fontFamily="sans-serif" />
+    </LinearLayout>
+</com.google.android.finsky.layout.play.FortuneCard>

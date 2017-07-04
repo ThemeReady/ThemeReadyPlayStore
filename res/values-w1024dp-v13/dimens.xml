@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="details_general_padding_no_divider_d20">16.0dip</dimen>
+    <dimen name="details_new_content_margin_d20">80.0dip</dimen>
+    <dimen name="details_side_margin_d20">80.0dip</dimen>
+    <dimen name="discovery_bar_inner_padding">64.0dip</dimen>
+    <dimen name="finsky_scrolling_tab_xpadding">24.0dip</dimen>
+    <dimen name="play_home_scrolling_tab_text_bottom_padding">3.0dip</dimen>
+</resources>

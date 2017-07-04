@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">હોમ પર નેવિગેટ કરો</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">ઉપર નેવિગેટ કરો</string>
+    <string name="abc_action_menu_overflow_description">વધુ વિકલ્પો</string>
+    <string name="abc_action_mode_done">થઈ ગયું</string>
+    <string name="abc_activity_chooser_view_see_all">બધું જુઓ</string>
+    <string name="abc_activitychooserview_choose_application">એક ઍપ્લિકેશન પસંદ કરો</string>
+    <string name="abc_capital_off">બંધ</string>
+    <string name="abc_capital_on">ચાલુ</string>
+    <string name="abc_search_hint">શોધો…</string>
+    <string name="abc_searchview_description_clear">ક્વેરી સાફ કરો</string>
+    <string name="abc_searchview_description_query">શોધ ક્વેરી</string>
+    <string name="abc_searchview_description_search">શોધો</string>
+    <string name="abc_searchview_description_submit">ક્વેરી સબમિટ કરો</string>
+    <string name="abc_searchview_description_voice">વૉઇસ શોધ</string>
+    <string name="abc_shareactionprovider_share_with">આની સાથે શેર કરો</string>
+    <string name="abc_shareactionprovider_share_with_application">%s સાથે શેર કરો</string>
+    <string name="abc_toolbar_collapse_description">સંકુચિત કરો</string>
+    <string name="failed">છબી લોડ કરી શકાઈ નથી</string>
+    <string name="photo_view_count" formatted="false">%d માંથી %d</string>
+    <string name="play_accessibility_search_plate_back_button">પાછળ</string>
+    <string name="play_accessibility_search_plate_clear">સાફ કરો</string>
+    <string name="play_accessibility_search_plate_navigate_up_button">ઉપર નેવિગેટ કરો</string>
+    <string name="play_accessibility_search_plate_search_button">શોધો</string>
+    <string name="play_accessibility_search_plate_voice_search_button">વૉઇસ શોધ</string>
+    <string name="play_article_view_error_message">કોઈ ભૂલ આવી છે.</string>
+    <string name="play_content_description_page_indicator">%2$s માનું %1$s પૃષ્ઠ</string>
+    <string name="play_dot_account_notification_content_description">તમારા એકાઉન્ટમાં નવી સૂચના</string>
+    <string name="play_dot_notification_content_description">નવી સૂચના</string>
+    <string name="play_download_is_requested">ડાઉનલોડ ચાલુ છે</string>
+    <string name="play_download_not_requested">ડાઉનલોડ બંધ છે</string>
+    <string name="play_drawer_close">નેવિગેશન ડ્રોઅર છુપાવો</string>
+    <string name="play_drawer_content_description_hide_account_list_button">એકાઉન્ટ સૂચિ છુપાવો</string>
+    <string name="play_drawer_content_description_show_account_list_button">એકાઉન્ટ સૂચિ દર્શાવો</string>
+    <string name="play_drawer_content_description_switch_account">%s પર એકાઉન્ટ સ્વિચ કરો</string>
+    <string name="play_drawer_open">નેવિગેશન ડ્રોઅર દર્શાવો</string>
+    <string name="play_drawer_title">નેવિગેશન</string>
+    <string name="play_onboard_button_next">આગલું</string>
+    <string name="play_percent_downloaded">%1$d%% ડાઉનલોડ થયું</string>
+    <string name="play_search_box_hint">Google Play શોધો</string>
+    <string name="play_star_rating_content_description">સ્ટાર રેટિંગ: %1$s</string>
+    <string name="retry">ફરી પ્રયાસ કરો</string>
+    <string name="search_menu_title">શોધો</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="titles" formatted="false">%s, %s</string>
+</resources>

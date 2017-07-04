@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_cache_state" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_cache_state" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_dfe_sync_state" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_dfe_sync_state" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_images_sync_state" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_images_sync_state" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/cache_and_sync_start_time_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_start_time" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_start_time" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/cache_and_sync_end_time_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_end_time" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_end_time" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_total_enqueued" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_dfe_sync_total_enqueued" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_dfe_responses_fetched" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_dfe_sync_dfe_responses_fetched" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textStyle="bold" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/debug_cache_and_sync_images_fetched" />
+        <TextView android:textStyle="bold" android:gravity="end" android:layout_gravity="end" android:id="@id/cache_and_sync_dfe_sync_images_fetched" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.play.entertainment.story.BackgroundPanelView android:id="@id/background_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" app:slantedOverlayId="@id/image_overlay"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.play.entertainment.story.ParallaxContainer android:id="@id/parallax_container" android:layout_width="fill_parent" android:layout_height="@dimen/pe_tall_leading_image_height">
+        <com.google.android.libraries.play.entertainment.bitmap.PEImageView android:id="@id/image_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" app:fadesInImage="true" />
+    </com.google.android.libraries.play.entertainment.story.ParallaxContainer>
+    <View android:id="@id/image_overlay" android:layout_width="fill_parent" android:layout_height="@dimen/pe_slanted_overlay_height" android:layout_alignBottom="@id/parallax_container" />
+    <LinearLayout android:orientation="vertical" android:id="@id/text_container" android:paddingTop="@dimen/pe__text_container_top_margin_wrt_slanted_overlay" android:paddingBottom="@dimen/box_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignTop="@id/image_overlay" style="@style/PETextContainer">
+        <include layout="@layout/pe__reason_in_slanted_style" />
+        <TextView android:id="@id/detail_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/box_small_padding" style="@style/PETitleText" />
+        <com.google.android.libraries.play.entertainment.story.SnippetView android:id="@id/detail_description" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="4" app:moreHintText="@string/pe__more" app:moreHintContentDescription="@string/pe__content_description_more" style="@style/PEText.BodyText" />
+        <TextView android:id="@id/attribution" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/box_small_padding" style="@style/PEText.Attribution" />
+    </LinearLayout>
+</com.google.android.libraries.play.entertainment.story.BackgroundPanelView>

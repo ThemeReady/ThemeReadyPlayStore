@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="15.0sp" android:textColor="@color/play_uninstall_wizard_secondary" android:id="@id/uninstall_manager_confirmation_message" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip" android:layout_marginBottom="@dimen/uninstall_wizard_confirmation_vmargin" />
+    <com.google.android.finsky.recyclerview.PlayRecyclerView android:id="@id/uninstall_confirmation_recycler_view" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="24.0dip" android:layout_marginRight="0.0dip" android:layout_weight="1.0" />
+    <View android:background="@color/play_fg_tertiary" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <include layout="@layout/button_bar" />
+</LinearLayout>

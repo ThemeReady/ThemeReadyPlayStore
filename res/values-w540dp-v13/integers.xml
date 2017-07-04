@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="mw_play_featured_grid_width">3</integer>
+    <integer name="mw_play_regular_grid_width">2</integer>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/overlay_header_background" android:paddingTop="6.0dip" android:paddingBottom="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <com.caverock.androidsvg.SVGImageView android:id="@id/logo" android:layout_width="159.0dip" android:layout_height="45.0dip" android:scaleType="fitCenter" android:layout_centerHorizontal="true" android:layout_centerVertical="true" finsky:svg="@raw/inline_footer_prism_logo" />
+    <FrameLayout android:background="@color/play_main_background" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:layout_alignParentBottom="true" />
+</RelativeLayout>

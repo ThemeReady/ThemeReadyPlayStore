@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@color/play_transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <com.google.android.finsky.layout.DetailsSectionStack android:orientation="vertical" android:id="@id/details_stack" android:layout_width="fill_parent" android:layout_height="fill_parent" finsky:separator_inset="16.0dip">
+        <include layout="@layout/inline_app_details_header_d20" />
+        <include layout="@layout/details_warning_message" />
+        <include android:id="@id/item_details_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/inline_app_details_summary_d20" />
+        <include android:id="@id/item_discovery_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/discovery_bar_v2" />
+        <include android:id="@id/footer" layout="@layout/inline_app_details_footer_d20" />
+    </com.google.android.finsky.layout.DetailsSectionStack>
+</ScrollView>

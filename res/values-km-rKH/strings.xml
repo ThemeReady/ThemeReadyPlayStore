@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">រកមើល​ទៅ​ដើម</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">រកមើល​ឡើងលើ</string>
+    <string name="abc_action_menu_overflow_description">ជម្រើស​ច្រើន​ទៀត</string>
+    <string name="abc_action_mode_done">រួចរាល់</string>
+    <string name="abc_activity_chooser_view_see_all">មើល​ទាំងអស់</string>
+    <string name="abc_activitychooserview_choose_application">ជ្រើស​កម្មវិធី​​</string>
+    <string name="abc_capital_off">បិទ</string>
+    <string name="abc_capital_on">បើក</string>
+    <string name="abc_search_hint">ស្វែងរក…</string>
+    <string name="abc_searchview_description_clear">សម្អាត​សំណួរ</string>
+    <string name="abc_searchview_description_query">ស្វែងរក​សំណួរ</string>
+    <string name="abc_searchview_description_search">ស្វែងរក</string>
+    <string name="abc_searchview_description_submit">ដាក់​​​ស្នើ​សំណួរ</string>
+    <string name="abc_searchview_description_voice">ការស្វែងរក​សំឡេង</string>
+    <string name="abc_shareactionprovider_share_with">ចែករំលែក​ជាមួយ</string>
+    <string name="abc_shareactionprovider_share_with_application">ចែករំលែក​ជាមួយ %s</string>
+    <string name="abc_toolbar_collapse_description">បង្រួម</string>
+    <string name="failed">មិន​អាច​ផ្ទុក​រូបភាព</string>
+    <string name="photo_view_count" formatted="false">%d នៃ %d</string>
+    <string name="play_accessibility_search_plate_back_button">ថយក្រោយ</string>
+    <string name="play_accessibility_search_plate_clear">ជម្រះ</string>
+    <string name="play_accessibility_search_plate_navigate_up_button">រុករកទៅលើ</string>
+    <string name="play_accessibility_search_plate_search_button">ស្វែងរក</string>
+    <string name="play_accessibility_search_plate_voice_search_button">ស្វែងរកដោយសម្លេង</string>
+    <string name="play_article_view_error_message">កំហុស​បាន​កើត​ឡើង។</string>
+    <string name="play_content_description_page_indicator">%1$s នៃ %2$s ទំព័រ</string>
+    <string name="play_dot_account_notification_content_description">ការជូនដំណឹងថ្មីនៅក្នុងគណនីរបស់អ្នក</string>
+    <string name="play_dot_notification_content_description">ការជូនដំណឹងថ្មី</string>
+    <string name="play_download_is_requested">ការដោនឡូតត្រូវបានបើក</string>
+    <string name="play_download_not_requested">ការដោនឡូតត្រូវបានបិទ</string>
+    <string name="play_drawer_close">លាក់ថតរុករក</string>
+    <string name="play_drawer_content_description_hide_account_list_button">លាក់បញ្ជីគណនី</string>
+    <string name="play_drawer_content_description_show_account_list_button">បង្ហាញបញ្ជីគណនី</string>
+    <string name="play_drawer_content_description_switch_account">ប្តូរគណនីទៅ %s</string>
+    <string name="play_drawer_open">បង្ហាញថតរុករក</string>
+    <string name="play_drawer_title">ការរុករក</string>
+    <string name="play_onboard_button_next">បន្ទាប់</string>
+    <string name="play_percent_downloaded">បានដោនឡូត %1$d%%</string>
+    <string name="play_search_box_hint">ស្វែងរក Google Play</string>
+    <string name="play_star_rating_content_description">ការវាយតម្លៃផ្កាយ៖ %1$s</string>
+    <string name="retry">ព្យាយាម​ម្ដង​ទៀត</string>
+    <string name="search_menu_title">ស្វែងរក</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="titles" formatted="false">%s, %s</string>
+</resources>

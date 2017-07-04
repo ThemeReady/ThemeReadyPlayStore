@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.BucketRow android:gravity="center_horizontal" android:id="@id/bucket_items" android:background="@color/flat_card_cluster_light_background" android:padding="@dimen/editors_choice_v2_card_horizontal_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:elevation="1.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.play.layout.PlayTextView android:id="@id/cluster_title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FlatClusterTitle" />
+</com.google.android.finsky.layout.BucketRow>

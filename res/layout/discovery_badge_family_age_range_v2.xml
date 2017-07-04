@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.play.DiscoveryBadgeFamilyAgeRangeV2 style="@style/DiscoveryBadgeV2"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <com.google.android.play.image.FifeImageView android:gravity="center" android:id="@id/overlay_icon" android:duplicateParentState="true" android:layout_width="@dimen/discovery_badge_d20_icon_size" android:layout_height="@dimen/discovery_badge_d20_icon_size" android:scaleType="fitCenter" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" finsky:is_avatar="false" />
+    <TextView android:id="@id/title" android:duplicateParentState="true" style="@style/DiscoveryBadgeTitleV2" />
+</com.google.android.finsky.layout.play.DiscoveryBadgeFamilyAgeRangeV2>

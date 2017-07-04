@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.PromotionCampaignHeaderView android:background="@color/white" android:padding="24.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="-8.0dip" style="@style/PromotionCampaignHeader"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.caverock.androidsvg.SVGImageView android:id="@id/info_icon" android:visibility="gone" android:clickable="true" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/more_info" finsky:svg="@raw/ic_info_grey_24dp" />
+            <com.google.android.play.layout.PlayTextView android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/info_icon" android:layout_alignParentLeft="true" finsky:allowsCompactLineSpacing="true" style="@style/PlayDetailTitle" />
+        </RelativeLayout>
+        <com.google.android.play.layout.PlayTextView android:id="@id/subtitle" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" finsky:allowsCompactLineSpacing="true" style="@style/LightPurchase_Details" />
+        <com.google.android.play.layout.PlayTextView android:id="@id/paragraph" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" style="@style/LightPurchase_ItemTitle" />
+        <FrameLayout android:id="@id/button_frame" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="36.0dip" android:layout_marginTop="24.0dip" style="@style/TouchTargetExtensionFrame">
+            <com.google.android.finsky.layout.actionbuttons.PlayActionButtonV2 android:id="@id/button" style="@style/PromotionCampaignHeaderButton" />
+        </FrameLayout>
+    </LinearLayout>
+</com.google.android.finsky.layout.PromotionCampaignHeaderView>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Fara heim</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Fara upp</string>
+    <string name="abc_action_menu_overflow_description">Fleiri valkostir</string>
+    <string name="abc_action_mode_done">Lokið</string>
+    <string name="abc_activity_chooser_view_see_all">Sjá allt</string>
+    <string name="abc_activitychooserview_choose_application">Veldu forrit</string>
+    <string name="abc_capital_off">SLÖKKT</string>
+    <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_search_hint">Leita…</string>
+    <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
+    <string name="abc_searchview_description_query">Leitarfyrirspurn</string>
+    <string name="abc_searchview_description_search">Leita</string>
+    <string name="abc_searchview_description_submit">Senda fyrirspurn</string>
+    <string name="abc_searchview_description_voice">Raddleit</string>
+    <string name="abc_shareactionprovider_share_with">Deila með</string>
+    <string name="abc_shareactionprovider_share_with_application">Deila með %s</string>
+    <string name="abc_toolbar_collapse_description">Minnka</string>
+    <string name="failed">Ekki var hægt að hlaða mynd</string>
+    <string name="photo_view_count" formatted="false">%d af %d</string>
+    <string name="play_accessibility_search_plate_back_button">Til baka</string>
+    <string name="play_accessibility_search_plate_clear">Hreinsa</string>
+    <string name="play_accessibility_search_plate_navigate_up_button">Fara upp</string>
+    <string name="play_accessibility_search_plate_search_button">Leita</string>
+    <string name="play_accessibility_search_plate_voice_search_button">Raddleit</string>
+    <string name="play_article_view_error_message">Villa kom upp.</string>
+    <string name="play_content_description_page_indicator">Síða %1$s af %2$s</string>
+    <string name="play_dot_account_notification_content_description">Ný tilkynning á reikningnum þínum</string>
+    <string name="play_dot_notification_content_description">Ný tilkynning</string>
+    <string name="play_download_is_requested">kveikt á niðurhali</string>
+    <string name="play_download_not_requested">slökkt á niðurhali</string>
+    <string name="play_drawer_close">Fela yfirlitsskúffu</string>
+    <string name="play_drawer_content_description_hide_account_list_button">Fela reikningalista</string>
+    <string name="play_drawer_content_description_show_account_list_button">Sýna reikningalista</string>
+    <string name="play_drawer_content_description_switch_account">Skipta yfir í reikninginn %s</string>
+    <string name="play_drawer_open">Sýna yfirlitsskúffu</string>
+    <string name="play_drawer_title">Yfirlit</string>
+    <string name="play_onboard_button_next">Áfram</string>
+    <string name="play_percent_downloaded">%1$d%% sótt</string>
+    <string name="play_search_box_hint">Leita á Google Play</string>
+    <string name="play_star_rating_content_description">Stjörnugjöf: %1$s</string>
+    <string name="retry">Reyna aftur</string>
+    <string name="search_menu_title">Leita</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="titles" formatted="false">%s, %s</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.play.entertainment.story.CardStory android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.play.layout.CardLinearLayout android:layout_gravity="top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/pe__card_margin_bottom" style="@style/PlayCardViewGroup">
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="0.0dip" layout="@layout/pe__card_image_view" />
+    </com.google.android.play.layout.CardLinearLayout>
+    <include layout="@layout/pe__card_attribution" />
+</com.google.android.libraries.play.entertainment.story.CardStory>

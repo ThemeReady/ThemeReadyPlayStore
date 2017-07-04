@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.play.DiscoveryBadgeRatingV2 style="@style/DiscoveryBadgeV2"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.play.layout.StarRatingBar android:id="@id/rating_bar" style="@style/DiscoveryRatingBarV2" />
+    <TextView android:id="@id/title" android:layout_width="wrap_content" android:drawableRight="@drawable/ic_user_rating" android:drawablePadding="4.0dip" style="@style/DiscoveryBadgeTitleV2" />
+</com.google.android.finsky.layout.play.DiscoveryBadgeRatingV2>

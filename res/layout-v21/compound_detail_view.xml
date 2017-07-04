@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.InsetsCoordinatorLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <View android:background="@drawable/compound_details_scrim" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.google.android.finsky.detailspage.CompoundDetailsViewPager android:id="@id/viewpager" android:clipChildren="false" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <android.support.design.widget.AppBarLayout android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" android:id="@id/appbar" android:background="@color/play_transparent" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="0.0dip" finsky:elevation="0.0dip" finsky:layout_behavior="com.google.android.finsky.layout.actionbar.FinskySearchAppBarBehavior" finsky:behavior_search_toolbar_id="@id/details_action_bar">
+        <com.google.android.finsky.detailspage.CompoundDetailToolbarLayout android:id="@id/toolbar_container" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="0.0dip" finsky:layout_scrollFlags="enterAlways|enterAlwaysCollapsed|scroll|snap">
+            <com.google.android.finsky.layout.actionbar.FinskySearchToolbar android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" android:id="@id/details_action_bar" android:layout_width="fill_parent" android:layout_height="@dimen/play_search_toolbar_height" android:elevation="0.0dip" finsky:contentInsetStart="0.0dip" finsky:popupTheme="@style/ThemeOverlay.AppCompat.Light" finsky:titleTextAppearance="@style/PlayToolbarTextAppearance" />
+        </com.google.android.finsky.detailspage.CompoundDetailToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+</com.google.android.finsky.layout.InsetsCoordinatorLayout>

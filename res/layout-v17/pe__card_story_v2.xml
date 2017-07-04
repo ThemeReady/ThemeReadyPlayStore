@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.play.entertainment.story.CardStory android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/pe__card_padding" android:paddingEnd="@dimen/pe__card_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/pe__card_image_view" />
+    <include layout="@layout/pe__card_attribution" />
+</com.google.android.libraries.play.entertainment.story.CardStory>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ಮುಖಪುಟವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="abc_action_menu_overflow_description">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+    <string name="abc_action_mode_done">ಮುಗಿದಿದೆ</string>
+    <string name="abc_activity_chooser_view_see_all">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+    <string name="abc_activitychooserview_choose_application">ಒಂದು ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="abc_capital_off">ಆಫ್</string>
+    <string name="abc_capital_on">ಆನ್</string>
+    <string name="abc_search_hint">ಹುಡುಕಿ…</string>
+    <string name="abc_searchview_description_clear">ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸು</string>
+    <string name="abc_searchview_description_query">ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="abc_searchview_description_search">ಹುಡುಕಿ</string>
+    <string name="abc_searchview_description_submit">ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸು</string>
+    <string name="abc_searchview_description_voice">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="abc_shareactionprovider_share_with">ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="abc_toolbar_collapse_description">ಸಂಕುಚಿಸು</string>
+    <string name="failed">ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ</string>
+    <string name="photo_view_count" formatted="false">%d ರಲ್ಲಿ %d</string>
+    <string name="play_accessibility_search_plate_back_button">ಹಿಂತಿರುಗು</string>
+    <string name="play_accessibility_search_plate_clear">ತೆರವುಮಾಡಿ</string>
+    <string name="play_accessibility_search_plate_navigate_up_button">ಮೇಲೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="play_accessibility_search_plate_search_button">ಹುಡುಕಿ</string>
+    <string name="play_accessibility_search_plate_voice_search_button">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="play_article_view_error_message">ದೋಷ ಕಂಡುಬಂದಿದೆ.</string>
+    <string name="play_content_description_page_indicator">ಪುಟ%1$s ದ %2$s</string>
+    <string name="play_dot_account_notification_content_description">ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿನ ಹೊಸ ಅಧಿಸೂಚನೆ</string>
+    <string name="play_dot_notification_content_description">ಹೊಸ ಅಧಿಸೂಚನೆ</string>
+    <string name="play_download_is_requested">ಡೌನ್ ಲೋಡ್ ಆನ್ ನಲ್ಲಿದೆ</string>
+    <string name="play_download_not_requested">ಡೌನ್ಲೋಡ್ ಆಫ್ ಆಗಿದೆ</string>
+    <string name="play_drawer_close">ಸಂಚರಣೆ ಡ್ರಾಯರ್ ಮರೆಮಾಡಿ</string>
+    <string name="play_drawer_content_description_hide_account_list_button">ಖಾತೆ ಪಟ್ಟಿ ಮರೆಮಾಡು</string>
+    <string name="play_drawer_content_description_show_account_list_button">ಖಾತೆ ಪಟ್ಟಿ ತೋರಿಸು</string>
+    <string name="play_drawer_content_description_switch_account">%sಗೆ ಖಾತೆಯನ್ನು ಬದಲಾಯಿಸಿ</string>
+    <string name="play_drawer_open">ಸಂಚರಣೆ ಡ್ರಾಯರ್ ನ್ನು ತೋರಿಸಿ</string>
+    <string name="play_drawer_title">ಸಂಚರಣೆ</string>
+    <string name="play_onboard_button_next">ಮುಂದೆ</string>
+    <string name="play_percent_downloaded">%1$d%% ಡೌನ್ ಲೋಡ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="play_search_box_hint">Google ಪ್ಲೇ ಅನ್ನು ಹುಡುಕಿ</string>
+    <string name="play_star_rating_content_description">ನಕ್ಷತ್ರ ರೇಟಿಂಗ್‌: %1$s</string>
+    <string name="retry">ಮರುಪ್ರಯತ್ನಿಸು</string>
+    <string name="search_menu_title">ಹುಡುಕಿ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="titles" formatted="false">%s, %s</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.stream.controllers.view.JpkrMiniTopChartsClusterView android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" finsky:header_xpadding="@dimen/play_cluster_header_xpadding"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:background="@color/jpkr_mini_top_charts_cluster_background_color" android:paddingLeft="@dimen/play_card_default_elevation" android:paddingTop="@dimen/play_cluster_vpadding" android:paddingRight="@dimen/play_card_default_elevation" android:paddingBottom="@dimen/play_cluster_vpadding" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/play_card_default_elevation" android:paddingEnd="@dimen/play_card_default_elevation">
+            <include android:id="@id/cluster_header" layout="@layout/jpkr_mini_top_charts_cluster_header" />
+            <include android:id="@id/cluster_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/cluster_header" layout="@layout/jpkr_mini_top_charts_cluster_content" />
+        </RelativeLayout>
+        <include android:id="@id/toggle_tooltip" android:visibility="invisible" layout="@layout/jpkr_mini_top_charts_toggle_tooltip" />
+    </FrameLayout>
+</com.google.android.finsky.stream.controllers.view.JpkrMiniTopChartsClusterView>

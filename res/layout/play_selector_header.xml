@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.IdentifiableFrameLayout android:paddingBottom="@dimen/filter_container_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/play_cluster_header_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Spinner android:layout_gravity="start|center" android:id="@id/section_corpus_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/spinner_min_width" android:dropDownSelector="@android:drawable/arrow_down_float" android:spinnerMode="dropdown" />
+    <include android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="fill_parent" layout="@layout/installed_apps_toggle" />
+</com.google.android.finsky.layout.IdentifiableFrameLayout>

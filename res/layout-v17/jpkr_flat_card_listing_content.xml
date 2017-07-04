@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <com.google.android.play.layout.PlayTextView android:gravity="center" android:id="@id/li_ranking" android:visibility="gone" android:layout_width="@dimen/flat_ranking_width" android:layout_height="wrap_content" style="@style/FlatRanking" />
+    <com.google.android.play.layout.PlayCardThumbnail android:id="@id/li_thumbnail_frame" android:layout_width="@dimen/jpkr_flat_card_listing_thumbnail_width" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="8.0dip" android:layout_marginStart="8.0dip" android:layout_marginEnd="12.0dip">
+        <include android:id="@id/li_thumbnail" layout="@layout/play_card_thumbnail" />
+    </com.google.android.play.layout.PlayCardThumbnail>
+    <com.google.android.play.layout.PlayCardLabelView android:id="@id/li_label" android:layout_marginLeft="0.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="12.0dip" android:layout_marginStart="0.0dip" android:layout_marginEnd="12.0dip" style="@style/PlayCardLabel" />
+    <TextView android:textSize="@dimen/listing_card_ad_label_text_size" android:id="@id/li_ad_label" android:visibility="gone" android:layout_marginLeft="0.0dip" android:layout_marginRight="4.0dip" android:layout_marginStart="0.0dip" android:layout_marginEnd="4.0dip" style="@style/PlayAdLabelBaseline" />
+    <com.google.android.play.layout.PlayTextView android:id="@id/li_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:maxLines="1" android:singleLine="true" android:includeFontPadding="false" style="@style/FlatCardTitle.Listing" />
+    <com.google.android.play.layout.PlayTextView android:id="@id/li_ad_creative" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" style="@style/PlayCardSubtitle" />
+    <com.google.android.finsky.layout.DecoratedTextView android:id="@id/li_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FlatCardSubtitle.Listing" />
+    <com.google.android.finsky.layout.DecoratedTextView android:id="@id/li_subtitle_2" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/FlatCardSubtitle.Listing" />
+    <include android:id="@id/li_snippet_2" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/flat_card_snippet" />
+    <include layout="@layout/flat_card_rating_badge" />
+    <ImageView android:id="@id/li_overflow" android:nextFocusLeft="@id/play_card" android:layout_marginLeft="0.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="2.0dip" android:layout_marginStart="0.0dip" android:layout_marginEnd="2.0dip" style="@style/FlatCardOverflow" />
+</merge>

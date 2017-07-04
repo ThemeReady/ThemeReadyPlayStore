@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="flat_grid_column_count">6</integer>
+    <integer name="flat_grid_dense_column_count">6</integer>
+    <integer name="flat_grid_extra_dense_column_count">6</integer>
+    <integer name="flat_multiple_aspect_ratios_documents_max_count">12</integer>
+</resources>

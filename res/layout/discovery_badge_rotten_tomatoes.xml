@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.play.DiscoveryBadgeGenericD20 android:layout_gravity="bottom" style="@style/DiscoveryBadgeV2"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:id="@id/icon_container" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/DiscoveryBadgeIconContainer">
+        <TextView android:textSize="@dimen/discovery_badge_d20_primary_text_size" android:textColor="@color/play_fg_primary" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.google.android.play.image.FifeImageView android:id="@id/icon" android:duplicateParentState="true" android:layout_width="@dimen/discovery_badge_d20_icon_size" android:layout_height="@dimen/discovery_badge_d20_icon_size" android:scaleType="fitCenter" finsky:fixed_bounds="true" />
+    </LinearLayout>
+    <TextView android:id="@id/subtitle" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/rotten_tomatoes" android:contentDescription="@null" style="@style/DiscoveryBadgeTitleV2" />
+</com.google.android.finsky.layout.play.DiscoveryBadgeGenericD20>

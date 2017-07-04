@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.detailspage.videowatchaction.VideoWatchActionCard android:layout_width="@dimen/summary_thumbnail_icon_size_width_d20" android:layout_height="@dimen/summary_thumbnail_icon_size_width_d20" finsky:playCardCornerRadius="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:finsky="http://schemas.android.com/apk/res-auto">
+    <com.google.android.play.image.FifeImageView android:id="@id/thumbnail_image" android:layout_width="@dimen/summary_thumbnail_icon_size_width_d20" android:layout_height="@dimen/summary_thumbnail_icon_size_width_d20" />
+</com.google.android.finsky.detailspage.videowatchaction.VideoWatchActionCard>

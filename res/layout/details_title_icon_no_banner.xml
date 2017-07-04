@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.finsky.layout.DetailsTitleIconContainer android:orientation="vertical" android:paddingLeft="@dimen/details_new_content_margin" android:paddingRight="@dimen/details_new_content_margin" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:paddingTop="@dimen/details_button_row_padding" android:paddingBottom="@dimen/details_button_row_padding" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <include android:id="@id/badge_left" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" layout="@layout/details_title_icon_single" />
+        <include android:id="@id/badge_right" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" layout="@layout/details_title_icon_single" />
+    </LinearLayout>
+    <View android:layout_width="fill_parent" android:layout_height="1.0dip" android:foreground="@color/play_cards_separator_color" />
+</com.google.android.finsky.layout.DetailsTitleIconContainer>
